@@ -3533,3 +3533,8 @@ input, select, textarea {
 		background-color: #333;
 		color: white;
 	}
+	#three img{
+		background-size: cover;
+		height: 20em !important ;
+		object-fit: contain; /* Make the image fit within the dimensions */
+	}
